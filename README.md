@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima&weight=700&size=25&pause=3000&color=66C8FF&background=2C83FF00&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BD+Hello+and+welcome+to+IITJEE.ART+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB)](https://iitjee.art/0:/)
 
+*Studying is an art, this site contains study materials for IITJEE Exam, hence the name IITJEE.ART*
+
 Welcome to my website powered by [Cloudflare Workers](https://workers.cloudflare.com/) (which is a serverless computing platform provided by [Cloudflare](https://cloudflare.com/)) and the [Google Drive API](https://developers.google.com/drive/api).         
 
 I have combined the cutting-edge technologies of Cloudflare Workers and the robust functionality of the Google Drive API to bring a seamless and efficient experience for indexing the contents of my Google Drive.
