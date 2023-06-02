@@ -32,7 +32,10 @@ With Cloudflare's global network and the Google Drive API, it is reliable and sc
 * Experience the convenience of a well-organized and easily searchable Google Drive.
 
 ## Deployment
-The project is live at [https://iitjee.art](https://iitjee.art/0:/). Please visit this link it will ask for a password, which should be already shared beforehand, if not then can be obtained by mailing me [here](mailto:hello@ishanavasthi.in?cc=heyavasthi@gmail.com&subject=Password%20for%20iitjee.art%3A).
+The project is live at [https://iitjee.art](https://iitjee.art/0:/). Please visit this link it and enter the password ```hello``` to access the contents.
+
+## Repository
+https://github.com/avasthi-git/iitjee.art
 
 ## Screenshot
 You can tap the below image to see an introductory video of the project.
