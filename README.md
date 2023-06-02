@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima&weight=700&size=25&pause=3000&color=66C8FF&background=2C83FF00&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BD+Hello+and+welcome+to+IITJEE.ART+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB)](https://iitjee.art)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arima&weight=700&size=25&pause=3000&color=66C8FF&background=2C83FF00&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BD+Hello+and+welcome+to+IITJEE.ART+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB)](https://iitjee.art/0:/)
 
 Welcome to my website powered by [Cloudflare Workers](https://workers.cloudflare.com/) (which is a serverless computing platform provided by [Cloudflare](https://cloudflare.com/)) and the [Google Drive API](https://developers.google.com/drive/api).         
 
@@ -32,7 +32,7 @@ With Cloudflare's global network and the Google Drive API, it is reliable and sc
 * Experience the convenience of a well-organized and easily searchable Google Drive.
 
 ## Deployment
-The project is live at [https://iitjee.art](https://iitjee.art). Please visit this link and tap IITJEE.ART folder. Then it will ask for password, which should be already shared beforehand, if not then can be obtained by mailing me [here](mailto:hello@ishanavasthi.in?cc=heyavasthi@gmail.com&subject=Password%20for%20iitjee.art%3A).
+The project is live at [https://iitjee.art](https://iitjee.art/0:/). Please visit this link it will ask for a password, which should be already shared beforehand, if not then can be obtained by mailing me [here](mailto:hello@ishanavasthi.in?cc=heyavasthi@gmail.com&subject=Password%20for%20iitjee.art%3A).
 
 ## Screenshot
 You can tap the below image to see an introductory video of the project.
