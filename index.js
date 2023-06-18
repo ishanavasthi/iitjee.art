@@ -2,9 +2,9 @@
 const serviceaccounts = [
     {}
     ];
-    const randomserviceaccount = serviceaccounts[Math.floor(Math.random()*serviceaccounts.length)]; // DO NOT TOUCH THIS
-    const domains_for_dl = ['']; // add multiple cloudflare addresses to balance the load on download/stream servers, eg. ['https://testing.fetchgoogleapi.workers.dev', 'https://testing2.fetchgoogleapi2.workers.dev']
-    const domain_for_dl = domains_for_dl[Math.floor(Math.random()*domains_for_dl.length)]; // DO NOT TOUCH THIS
+    const randomserviceaccount = serviceaccounts[Math.floor(Math.random()*serviceaccounts.length)];
+    const domains_for_dl = [''];
+    const domain_for_dl = domains_for_dl[Math.floor(Math.random()*domains_for_dl.length)];
     const video_domains_for_dl = ['']; // add multiple cloudflare addresses to balance the load on download/stream servers, eg. ['https://testing.fetchgoogleapi.workers.dev', 'https://testing2.fetchgoogleapi2.workers.dev']
     const video_domain_for_dl = video_domains_for_dl[Math.floor(Math.random()*video_domains_for_dl.length)]; // DO NOT TOUCH THIS
     const blocked_region = ['']; // add regional codes seperated by comma, eg. ['IN', 'US', 'PK']
@@ -47,23 +47,11 @@ const serviceaccounts = [
         }
     
     /*
-    ███████╗██████╗░██╗████████╗  ████████╗██╗░░██╗███████╗░██████╗███████╗
-    ██╔════╝██╔══██╗██║╚══██╔══╝  ╚══██╔══╝██║░░██║██╔════╝██╔════╝██╔════╝
-    █████╗░░██║░░██║██║░░░██║░░░  ░░░██║░░░███████║█████╗░░╚█████╗░█████╗░░
-    ██╔══╝░░██║░░██║██║░░░██║░░░  ░░░██║░░░██╔══██║██╔══╝░░░╚═══██╗██╔══╝░░
-    ███████╗██████╔╝██║░░░██║░░░  ░░░██║░░░██║░░██║███████╗██████╔╝███████╗
-    ╚══════╝╚═════╝░╚═╝░░░╚═╝░░░  ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═════╝░╚══════╝
-    
-    ██╗░░░██╗░█████╗░██╗░░░░░██╗░░░██╗███████╗░██████╗
-    ██║░░░██║██╔══██╗██║░░░░░██║░░░██║██╔════╝██╔════╝
-    ╚██╗░██╔╝███████║██║░░░░░██║░░░██║█████╗░░╚█████╗░
-    ░╚████╔╝░██╔══██║██║░░░░░██║░░░██║██╔══╝░░░╚═══██╗
-    ░░╚██╔╝░░██║░░██║███████╗╚██████╔╝███████╗██████╔╝
-    ░░░╚═╝░░░╚═╝░░╚═╝╚══════╝░╚═════╝░╚══════╝╚═════╝░*/
+   editable values below*/
     
     const uiConfig = {
-        "theme": "solar", // switch between themes, default set to slate, select from https://gitlab.com/GoogleDriveIndex/Google-Drive-Index
-        "version": "2.2.3", // don't touch this one. get latest code using generator at https://bdi-generator.hashhackers.com
+        "theme": "solar", 
+        "version": "2.2.3", 
         // If you're using Image then set to true, If you want text then set it to false
         "logo_image": true, // true if you're using image link in next option.
         "logo_height": "64px", // only if logo_image is true
@@ -93,7 +81,7 @@ const serviceaccounts = [
         "copyright_year": "2023", // year of copyright, can be anything like 2015 - 2020 or just 2020
         "company_name": "IITJEE.ART - Ishan Avasthi", // Name next to copyright
         "company_link": "https://ishanavasthi.in?utm_source=iitjee.art", // link of copyright name
-        "credit": false, // Set this to true to give us credit
+        "credit": false, 
         "display_size": true, // Set this to false to hide display file size
         "display_time": false, // Set this to false to hide display modified time for folder and files
         "display_download": true, // Set this to false to hide download icon for folder and files on main index
