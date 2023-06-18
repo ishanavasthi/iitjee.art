@@ -71,5 +71,15 @@ If you have any feedback, please reach out to me via [Email](mailto:hello@ishana
 
 * This project is not associated with Google, this project uses Google Drive API to Index Files and Folders.
 
-### Thank You
-# Made by [Ishan Avasthi](https://ishanavasthi.in?utm_source=iitjee.art)
+# Hi, I'm [Ishan](https://ishanavasthi.in?utm_source=GitHub)! 👋
+
+## 🚀 About Me
+I'm a Computer Science student at [Scaler School of Technology](https://www.scaler.com/school-of-technology/). Class of '27.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ishanavasthi.in/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/ishanavasthi/)
+
+[![twitter](https://img.shields.io/badge/mail%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyavasthi@gmail.com)
